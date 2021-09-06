@@ -1,0 +1,10 @@
+package com.vahidsaghlatoon;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        Request request = new Request();
+        request.taxiRequest();
+    }
+}
